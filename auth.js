@@ -1,2 +1,2 @@
 // Authentification module
-// Improved error handling
+// Improved error handlig
